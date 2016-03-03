@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./scriptaselecta00muregoog_0009.png"; bbox 0 0 2332 3824; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 138 294 1017 408">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 138 294 1017 408">
+     <span class='ocr_line' id='line_1_1' title="bbox 138 294 1017 408; baseline 0 -2"><span class='ocrx_word' id='word_1_1' title='bbox 138 295 569 408; x_wconf 81' lang='lat' dir='ltr'><strong>BIBLIOTHEOA</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 613 294 1017 408; x_wconf 76' lang='lat' dir='ltr'>SCRIPTORVM</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 99 632 1055 776">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 99 632 1055 776">
+     <span class='ocr_line' id='line_1_2' title="bbox 99 632 1055 776; baseline 0 -1"><span class='ocrx_word' id='word_1_3' title='bbox 99 677 530 776; x_wconf 78' lang='lat' dir='ltr'><strong>LATINORVM</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 562 632 1055 776; x_wconf 72' lang='lat' dir='ltr'>RECENTIORIS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 433 1006 712 1079">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 433 1006 712 1079">
+     <span class='ocr_line' id='line_1_3' title="bbox 433 1006 712 1079; baseline -0.004 0"><span class='ocrx_word' id='word_1_5' title='bbox 433 1006 712 1079; x_wconf 84' lang='lat' dir='ltr'><strong>AETATIS</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 361 1683 802 1756">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 361 1683 802 1756">
+     <span class='ocr_line' id='line_1_4' title="bbox 361 1683 802 1756; baseline -0.009 0"><span class='ocrx_word' id='word_1_6' title='bbox 361 1687 387 1756; x_wconf 85' lang='lat' dir='ltr'><strong>J</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 390 1685 623 1756; x_wconf 80' lang='lat' dir='ltr'>OSEPHVS</span> <span class='ocrx_word' id='word_1_8' title='bbox 656 1683 802 1753; x_wconf 78' lang='lat' dir='ltr'>FREY</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1170 3824">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1170 3824">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1170 3824; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 0 0 1170 3824; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
